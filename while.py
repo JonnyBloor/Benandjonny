@@ -7,7 +7,7 @@ pw = ' '
 
 auth = False
 count = 0
-max_attempt = 5
+max_attempt = 6
 
 while pw != secret:
     count += 1
